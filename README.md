@@ -31,7 +31,7 @@ names: ['side_screw', 'cover_screw', 'motor']
 * Box coordinates must be in **normalized xywh** format (from 0-1). If your boxes are in pixels, divide `x_center` and `width` by image width, and `y_center` and `height` by image height.
 * Class numbers are zero-indexed (start from 0).
 
-<img src="https://github.com/LinxiQIU/2d_detection/blob/main/images/coco_label.png" width="540" height="360">
+<img src="https://github.com/LinxiQIU/2d_detection/blob/main/images/label.png" width="640" height="480">
 
 The label file corrsponding to the image contains one motor, two side screws and three cover screws.
 
